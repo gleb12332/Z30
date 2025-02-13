@@ -16,4 +16,4 @@ Kompilacja:
 Uruchomienie:
  ./Z30_1
 Wykorzystanie programu w analizie
-Program został wykorzystany do obliczenia strat energii cząstki alfa w powietrzu. Energia Emax w kodzie odpowiada energii uzyskanej w doświadczeniu (E). Wyniki zostały wykorzystane do określenia zasięgu cząstek alfa i ich strat energii w powietrzu. Wartości teoretyczne w wykresie 5 pochodzą z ASTAR, natomiast program `Z30_1.cpp` został użyty do wyznaczenia strat energii na podstawie równania Bethe-Blocha.
+Program został wykorzystany do obliczenia strat energii cząstki alfa w powietrzu. Energia Emax w kodzie odpowiada energii uzyskanej w doświadczeniu (E). Wyniki zostały wykorzystane do określenia zasięgu cząstek alfa i ich strat energii w powietrzu.
